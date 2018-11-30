@@ -1,4 +1,4 @@
-# Blog
+# Blog - Full Version with node_modules can be found inside the "blog.rar" or using the built version inside the "dist" folder.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
