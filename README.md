@@ -1,4 +1,4 @@
-# Blog - Full Version with node_modules can be found inside the "blog.rar" or using the built version "dist.rar".
+# Blog - Full Version with node_modules : "blog.rar" - Built version "dist.rar" - Direct Link to application : https://yelahw.github.io/blog/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
